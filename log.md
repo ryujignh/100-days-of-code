@@ -5,3 +5,9 @@
 **Today's Progress**: Started learning React on a udemy course 
 
 **Thoughts:** I really need to get used to this frame work.
+
+### Day 1: 3/9/2020
+
+**Today's Progress**: Understood props and states, data binding and evend hundler 
+
+**Thoughts:** Getting used to a new framework is awesome.
