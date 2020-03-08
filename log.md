@@ -8,6 +8,6 @@
 
 ### Day 2: 3/9/2020
 
-**Today's Progress**: Understood props and states, data binding and evend hundler 
+**Today's Progress**: Understood props and states, data binding and event handler 
 
 **Thoughts:** Getting used to a new framework is awesome.
