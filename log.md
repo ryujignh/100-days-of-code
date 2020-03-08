@@ -6,7 +6,7 @@
 
 **Thoughts:** I really need to get used to this frame work.
 
-### Day 1: 3/9/2020
+### Day 2: 3/9/2020
 
 **Today's Progress**: Understood props and states, data binding and evend hundler 
 
