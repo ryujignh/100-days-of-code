@@ -17,3 +17,11 @@
 **Today's Progress**: Understood how to handle dom with conditions. Handling list. Deleting elements from list. 
 
 **Thoughts:** Getting more confident with React!
+
+### Day 4: 3/11/2020
+
+**Today's Progress**: Understood how to use CSS modules and StyledComponents in React. 
+
+**Thoughts:** More things to learn!
+
+#100DaysOfCode
