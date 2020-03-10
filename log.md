@@ -11,3 +11,9 @@
 **Today's Progress**: Understood props and states, data binding and event handler 
 
 **Thoughts:** Getting used to a new framework is awesome.
+
+### Day 3: 3/10/2020
+
+**Today's Progress**: Understood how to handle dom with conditions. Handling list. Deleting elements from list. 
+
+**Thoughts:** Getting more confident with React!
