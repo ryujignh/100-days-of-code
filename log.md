@@ -25,3 +25,19 @@
 **Thoughts:** More things to learn!
 
 #100DaysOfCode
+
+### Day 5: 3/12/2020
+
+**Today's Progress**: Learned difference between class and module. Cleaner file structure.  
+
+**Thoughts:** More things to learn!
+
+#100DaysOfCode
+
+### Day 6: 3/13/2020
+
+**Today's Progress**: Learned the DOM lifecycle of React. Understood how to use UseEffect. HOC (High Order Component)  
+
+**Thoughts:** More things to learn!
+
+#100DaysOfCode
