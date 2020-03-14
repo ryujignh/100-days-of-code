@@ -41,3 +41,11 @@
 **Thoughts:** More things to learn!
 
 #100DaysOfCode
+
+### Day 7: 3/14/2020
+
+**Today's Progress**: Learned how to use Context API and UseContext hook to pass data to nested components.
+
+**Thoughts:** One week!
+
+#100DaysOfCode
