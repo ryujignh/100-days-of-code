@@ -49,3 +49,11 @@
 **Thoughts:** One week!
 
 #100DaysOfCode
+
+### Day 8: 3/15/2020
+
+**Today's Progress**: Started building a new project, Hamburger builder.
+
+**Thoughts:** Getting more used to organizing a project by component.
+
+#100DaysOfCode
