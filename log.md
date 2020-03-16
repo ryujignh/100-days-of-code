@@ -57,3 +57,11 @@
 **Thoughts:** Getting more used to organizing a project by component.
 
 #100DaysOfCode
+
+### Day 9: 3/16/2020
+
+**Today's Progress**: Learned how to dynamically toggle a modal. 
+
+**Thoughts:** Getting more used to state and React's component life cycle. Already started falling love with React.
+
+#100DaysOfCode
