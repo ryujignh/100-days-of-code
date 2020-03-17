@@ -65,3 +65,11 @@
 **Thoughts:** Getting more used to state and React's component life cycle. Already started falling love with React.
 
 #100DaysOfCode
+
+### Day 10: 3/17/2020
+
+**Today's Progress**: Adding navigations and side bars for mobile. 
+
+**Thoughts:** 10 days!
+
+#100DaysOfCode
