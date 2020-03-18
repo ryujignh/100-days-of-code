@@ -73,3 +73,11 @@
 **Thoughts:** 10 days!
 
 #100DaysOfCode
+
+### Day 11: 3/18/2020
+
+**Today's Progress**: Started learning GraphQL along with React for the current project 
+
+**Thoughts:** More things to learn!
+
+#100DaysOfCode
