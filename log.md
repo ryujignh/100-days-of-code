@@ -82,7 +82,15 @@
 
 #100DaysOfCode
 
-### Day 12: 3/18/2020
+### Day 12: 3/19/2020
+
+**Today's Progress**: Getting used to GraphQL and React 
+
+**Thoughts:** More things to learn!
+
+#100DaysOfCode
+
+### Day 13: 3/20/2020
 
 **Today's Progress**: Getting used to GraphQL and React 
 
