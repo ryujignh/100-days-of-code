@@ -97,3 +97,11 @@
 **Thoughts:** More things to learn!
 
 #100DaysOfCode
+
+### Day 14: 3/21/2020
+
+**Today's Progress**: Learning GraphQL. React Router, Apollo 
+
+**Thoughts:** More things to learn!
+
+#100DaysOfCode
