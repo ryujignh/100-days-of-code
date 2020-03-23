@@ -113,3 +113,11 @@
 **Thoughts:** More things to learn!
 
 #100DaysOfCode
+
+### Day 16: 3/22/2020
+
+**Today's Progress**: More GraphQL!! 
+
+**Thoughts:** It's so easy to forget what I learned two days ago :( 
+
+#100DaysOfCode
