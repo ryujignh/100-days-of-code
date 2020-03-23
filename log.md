@@ -114,7 +114,7 @@
 
 #100DaysOfCode
 
-### Day 16: 3/22/2020
+### Day 16: 3/23/2020
 
 **Today's Progress**: More GraphQL!! 
 
