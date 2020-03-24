@@ -121,3 +121,11 @@
 **Thoughts:** It's so easy to forget what I learned two days ago :( 
 
 #100DaysOfCode
+
+### Day 17: 3/24/2020
+
+**Today's Progress**: GraphQL. Learning how Apollo client's caching works. 
+
+**Thoughts:** React and GraphQL is pretty cool 
+
+#100DaysOfCode
