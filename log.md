@@ -129,3 +129,11 @@
 **Thoughts:** React and GraphQL is pretty cool 
 
 #100DaysOfCode
+
+### Day 18: 3/25/2020
+
+**Today's Progress**: GraphQL. Started learning how to implement authentication with graphQL + passport.js  
+
+**Thoughts:** New stuff! 
+
+#100DaysOfCode
