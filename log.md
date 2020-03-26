@@ -137,3 +137,11 @@
 **Thoughts:** New stuff! 
 
 #100DaysOfCode
+
+### Day 19: 3/26/2020
+
+**Today's Progress**: Learned how to implement Sign-up/Login/Logout with passport.js + GraphQL  
+
+**Thoughts:** Still having a hard time to truly understand how authentication works with passportJS with GraphQL. 
+
+#100DaysOfCode
