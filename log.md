@@ -145,3 +145,11 @@
 **Thoughts:** Still having a hard time to truly understand how authentication works with passportJS with GraphQL. 
 
 #100DaysOfCode
+
+### Day 20: 3/27/2020
+
+**Today's Progress**: Worked on my side project.  
+
+**Thoughts:** 80 days to go! 
+
+#100DaysOfCode
