@@ -153,3 +153,11 @@
 **Thoughts:** 80 days to go! 
 
 #100DaysOfCode
+
+### Day 21: 3/28/2020
+
+**Today's Progress**: Working on user authentication front-end side with React, Apollo, GraphQL.  
+
+**Thoughts:** Getting a bit tired of this challenge, but I won't give up. 
+
+#100DaysOfCode
