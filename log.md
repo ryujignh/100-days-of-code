@@ -161,3 +161,11 @@
 **Thoughts:** Getting a bit tired of this challenge, but I won't give up. 
 
 #100DaysOfCode
+
+### Day 22: 3/29/2020
+
+**Today's Progress**: Finished GraphQL course! Back to React now.  
+
+**Thoughts:** Lazy Sunday. 
+
+#100DaysOfCode
