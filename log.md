@@ -169,3 +169,11 @@
 **Thoughts:** Lazy Sunday. 
 
 #100DaysOfCode
+
+### Day 23: 3/30/2020
+
+**Today's Progress**: Back to React course on Udemy!   
+
+**Thoughts:** React is awesome.
+
+#100DaysOfCode
