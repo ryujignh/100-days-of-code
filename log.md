@@ -177,3 +177,9 @@
 **Thoughts:** React is awesome.
 
 #100DaysOfCode
+
+### Day 24: 3/31/2020
+
+Started learning Axios!   
+
+#100DaysOfCode
