@@ -183,3 +183,9 @@
 Started learning Axios!   
 
 #100DaysOfCode
+
+### Day 25: 4/1/2020
+
+Started using firebase for the current React project.   
+
+#100DaysOfCode
