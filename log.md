@@ -189,3 +189,11 @@ Started learning Axios!
 Started using firebase for the current React project.   
 
 #100DaysOfCode
+
+### Day 26: 4/2/2020
+
+**Today's Progress**: Learned how to fetch data from firebase. I started learning how to implement routes to React.
+
+**Thoughts:** Finally routes!
+
+#100DaysOfCode
