@@ -197,3 +197,11 @@ Started using firebase for the current React project.
 **Thoughts:** Finally routes!
 
 #100DaysOfCode
+
+### Day 27: 4/3/2020
+
+**Today's Progress**: Learning react-routes and NavLink. 
+
+**Thoughts:** React is so cool. Can't go back to jQuery.
+
+#100DaysOfCode
