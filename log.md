@@ -205,3 +205,11 @@ Started using firebase for the current React project.
 **Thoughts:** React is so cool. Can't go back to jQuery.
 
 #100DaysOfCode
+
+### Day 28: 4/4/2020
+
+**Today's Progress**: Hooking up GraphQL on Rails with Vue. 
+
+**Thoughts:** Love GraphQL! Can't go back to the ordinary API structure.
+
+#100DaysOfCode
