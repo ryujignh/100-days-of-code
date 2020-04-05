@@ -213,3 +213,9 @@ Started using firebase for the current React project.
 **Thoughts:** Love GraphQL! Can't go back to the ordinary API structure.
 
 #100DaysOfCode
+
+### Day 29: 4/5/2020
+
+**Today's Progress**: Hooking up GraphQL on Rails with Vue.
+ 
+#100DaysOfCode
