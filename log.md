@@ -219,3 +219,9 @@ Started using firebase for the current React project.
 **Today's Progress**: Hooking up GraphQL on Rails with Vue.
  
 #100DaysOfCode
+
+### Day 30: 4/6/2020
+
+**Today's Progress**: React router, redirect, conditional redirect, and lazyload. 30 days!!
+ 
+#100DaysOfCode
