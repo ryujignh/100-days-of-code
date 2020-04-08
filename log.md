@@ -231,3 +231,9 @@ Started using firebase for the current React project.
 **Today's Progress**: Day2 of React router, redirect, conditional redirect.
  
 #100DaysOfCode
+
+### Day 32: 4/8/2020
+
+**Today's Progress**: Day3 of React router.
+ 
+#100DaysOfCode
