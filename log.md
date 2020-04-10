@@ -243,3 +243,9 @@ Started using firebase for the current React project.
 **Today's Progress**: React forms.
  
 #100DaysOfCode
+
+### Day 34: 4/10/2020
+
+**Today's Progress**: Vue, Apollo, GraphQL. Overwhelmed by figuring out how to update cache after mutation.
+ 
+#100DaysOfCode
