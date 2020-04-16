@@ -279,3 +279,9 @@ Started using firebase for the current React project.
 **Today's Progress**: Started implementing Redux on another project.
  
 #100DaysOfCode
+
+### Day 40: 4/16/2020
+
+**Today's Progress**: Started learning using a middleware on redux.
+ 
+#100DaysOfCode
