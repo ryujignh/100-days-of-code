@@ -291,3 +291,9 @@ Started using firebase for the current React project.
 **Today's Progress**: Continue learning redux.
  
 #100DaysOfCode
+
+### Day 42: 4/18/2020
+
+**Today's Progress**: Continue learning redux.
+ 
+#100DaysOfCode
