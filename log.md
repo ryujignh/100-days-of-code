@@ -321,3 +321,9 @@ Started using firebase for the current React project.
 **Today's Progress**: Implement authentication by using firebase. So easy. 
  
 #100DaysOfCode
+
+### Day 47: 4/23/2020
+
+**Today's Progress**: Implement authentication to actions. 
+ 
+#100DaysOfCode
