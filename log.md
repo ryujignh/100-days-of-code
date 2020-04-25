@@ -333,3 +333,9 @@ Started using firebase for the current React project.
 **Today's Progress**: Working on react. 
  
 #100DaysOfCode
+
+### Day 49: 4/25/2020
+
+**Today's Progress**: Working on authentication with Redux 
+ 
+#100DaysOfCode
