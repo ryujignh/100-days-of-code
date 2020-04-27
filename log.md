@@ -337,5 +337,17 @@ Started using firebase for the current React project.
 ### Day 49: 4/25/2020
 
 **Today's Progress**: Learned how to implement persisting user session on the local storage. Fetch data by userId from firebase. 
+
+#100DaysOfCode
+
+### Day 50: 4/26/2020
+
+**Today's Progress**: Working on react. 
+ 
+#100DaysOfCode
+
+### Day 51: 4/27/2020
+
+**Today's Progress**: Working on react. 
  
 #100DaysOfCode
