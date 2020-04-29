@@ -357,3 +357,9 @@ Started using firebase for the current React project.
 **Today's Progress**: Learned how to test on React  
  
 #100DaysOfCode
+
+### Day 53: 4/29/2020
+
+**Today's Progress**: Finally deployed my app on firebase!  
+ 
+#100DaysOfCode
