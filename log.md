@@ -369,3 +369,15 @@ Started using firebase for the current React project.
 **Today's Progress**: Started learning Next.js. So awesome  
  
 #100DaysOfCode
+
+### Day 55: 5/1/2020
+
+**Today's Progress**: Next.js is so awesome  
+ 
+#100DaysOfCode
+
+### Day 56: 5/2/2020
+
+**Today's Progress**: Learning CSSTransition library  
+ 
+#100DaysOfCode
