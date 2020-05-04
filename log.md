@@ -381,3 +381,15 @@ Started using firebase for the current React project.
 **Today's Progress**: Learning CSSTransition library  
  
 #100DaysOfCode
+
+### Day 57: 5/3/2020
+
+**Today's Progress**: Learning React saga  
+ 
+#100DaysOfCode
+
+### Day 58: 5/4/2020
+
+**Today's Progress**: Learning React saga  
+ 
+#100DaysOfCode
