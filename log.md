@@ -408,17 +408,23 @@ Started using firebase for the current React project.
 
 ### Day 61: 5/7/2020
 
-**Today's Progress**: Working on a side project.  
+**Today's Progress**: Learning React hooks. UseReducer, UseState, UseEffect
  
 #100DaysOfCode
 
 ### Day 62: 5/8/2020
 
-**Today's Progress**: Learning how to create a custom hook on React.  
+**Today's Progress**: Working on a side project.  
  
 #100DaysOfCode
 
 ### Day 63: 5/9/2020
+
+**Today's Progress**: Learning how to create a custom hook on React.  
+ 
+#100DaysOfCode
+
+### Day 64: 5/10/2020
 
 **Today's Progress**: Learning how to create a custom hook on React.  
  
