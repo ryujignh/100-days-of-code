@@ -435,3 +435,9 @@ Started using firebase for the current React project.
 **Today's Progress**: Learning how to create a custom hook on React.  
  
 #100DaysOfCode
+
+### Day 66: 5/12/2020
+
+**Today's Progress**: Working on the side project. Playing with Vue. Vue is nice.  
+ 
+#100DaysOfCode
