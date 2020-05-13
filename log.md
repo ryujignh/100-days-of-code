@@ -441,3 +441,9 @@ Started using firebase for the current React project.
 **Today's Progress**: Working on the side project. Playing with Vue. Vue is nice.  
  
 #100DaysOfCode
+
+### Day 67: 5/13/2020
+
+**Today's Progress**: Started taking CS50. Week0  
+ 
+#100DaysOfCode
