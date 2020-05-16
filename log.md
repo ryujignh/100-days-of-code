@@ -447,3 +447,22 @@ Started using firebase for the current React project.
 **Today's Progress**: Started taking CS50. Week0  
  
 #100DaysOfCode
+
+### Day 68: 5/14/2020
+
+**Today's Progress**: CS50. Started learning C lang. Data types and so on.  
+ 
+#100DaysOfCode
+
+### Day 69: 5/15/2020
+
+**Today's Progress**: Working on a side project. Fixed an issue with a node version.  
+ 
+#100DaysOfCode
+
+### Day 70: 5/16/2020
+
+**Today's Progress**: CS50 Week2. Learning how Array works in C.  
+ 
+#100DaysOfCode
+
