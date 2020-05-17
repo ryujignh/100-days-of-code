@@ -466,3 +466,9 @@ Started using firebase for the current React project.
  
 #100DaysOfCode
 
+### Day 71: 5/17/2020
+
+**Today's Progress**: CS50 Week2. Doing assignment. Readability check by C lang. Using array.   
+ 
+#100DaysOfCode
+
