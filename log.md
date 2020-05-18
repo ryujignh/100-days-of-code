@@ -477,4 +477,3 @@ Started using firebase for the current React project.
 **Today's Progress**: CS50 Week2. Doing assignment. Making caesar encryption.   
  
 #100DaysOfCode
-
