@@ -489,3 +489,21 @@ Started using firebase for the current React project.
 **Today's Progress**: CS50 Week3. Doing algorithm assignment.   
  
 #100DaysOfCode
+
+### Day 75: 5/21/2020
+
+**Today's Progress**: CS50 Week3. Doing algorithm assignment. Finished the first one. Starting a second assignment.   
+ 
+#100DaysOfCode
+
+### Day 76: 5/22/2020
+
+**Today's Progress**: CS50 Week3. Doing algorithm assignment. Second assignment.   
+ 
+#100DaysOfCode
+
+### Day 77: 5/23/2020
+
+**Today's Progress**: CS50 Week3. Doing algorithm assignment. Second assignment.   
+ 
+#100DaysOfCode
