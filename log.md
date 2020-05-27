@@ -525,3 +525,9 @@ Started using firebase for the current React project.
 **Today's Progress**: Working on a side project.   
  
 #100Day
+
+### Day 81: 5/27/2020
+
+**Today's Progress**: Learning OpenID and Oauth2.0   
+ 
+#100Day
