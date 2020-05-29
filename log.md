@@ -530,4 +530,16 @@ Started using firebase for the current React project.
 
 **Today's Progress**: Learning OpenID and Oauth2.0   
  
-#100Day
+#100DaysOfCode
+
+### Day 82: 5/28/2020
+
+**Today's Progress**: Learning how to convert color to greyscale.   
+ 
+#100DaysOfCode
+
+### Day 83: 5/29/2020
+
+**Today's Progress**: Working on a side project.   
+ 
+#100DaysOfCode
