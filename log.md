@@ -543,3 +543,9 @@ Started using firebase for the current React project.
 **Today's Progress**: Working on a side project.   
  
 #100DaysOfCode
+
+### Day 84: 5/30/2020
+
+**Today's Progress**: CS50 Week4. Working on creating image filters!   
+ 
+#100DaysOfCode
