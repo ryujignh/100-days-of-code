@@ -567,3 +567,9 @@ Started using firebase for the current React project.
 **Today's Progress**: Working on a side project. Fixing Stripe related bugs.   
  
 #100DaysOfCode
+
+### Day 88: 6/3/2020
+
+**Today's Progress**: CS50 Week4. Finished the image recovering assignemnt. It was hard.   
+ 
+#100DaysOfCode
