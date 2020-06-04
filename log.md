@@ -573,3 +573,9 @@ Started using firebase for the current React project.
 **Today's Progress**: CS50 Week4. Finished the image recovering assignemnt. It was hard.   
  
 #100DaysOfCode
+
+### Day 89: 6/4/2020
+
+**Today's Progress**: CS50 Week5. Started learning data structures.   
+ 
+#100DaysOfCode
