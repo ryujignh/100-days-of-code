@@ -579,3 +579,9 @@ Started using firebase for the current React project.
 **Today's Progress**: CS50 Week5. Started learning data structures.   
  
 #100DaysOfCode
+
+### Day 90: 6/5/2020
+
+**Today's Progress**: Working on a side project.   
+ 
+#100DaysOfCode
