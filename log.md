@@ -597,3 +597,9 @@ Started using firebase for the current React project.
 **Today's Progress**: CS50 Week5. Working on this week's assignment.   
  
 #100DaysOfCode
+
+### Day 93: 6/8/2020
+
+**Today's Progress**: CS50 Week5. Finished the assignment. FinallyuUnderstood how memory management works. Love CS50!   
+ 
+#100DaysOfCode
