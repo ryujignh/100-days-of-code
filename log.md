@@ -609,3 +609,9 @@ Started using firebase for the current React project.
 **Today's Progress**: Working on a side project.   
  
 #100DaysOfCode
+
+### Day 95: 6/10/2020
+
+**Today's Progress**: CS50 Week6. Python.   
+ 
+#100DaysOfCode
