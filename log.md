@@ -627,3 +627,10 @@ Started using firebase for the current React project.
 **Today's Progress**: CS50 Week7. SQL   
  
 #100DaysOfCode
+
+### Day 98: 6/13/2020
+
+**Today's Progress**: CS50 Week7. SQL   
+ 
+#100DaysOfCode
+
