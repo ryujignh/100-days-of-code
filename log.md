@@ -645,3 +645,9 @@ Started using firebase for the current React project.
 **Today's Progress**: CS50 Week7. SQL assignments. Completed 100 days!!!!! What a achievement. I will continue to day 101.   
  
 #100DaysOfCode
+
+## Day 101: 6/16/2020
+
+**Today's Progress**: Working on a sideproject.   
+ 
+#100DaysOfCode
