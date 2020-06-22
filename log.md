@@ -681,3 +681,9 @@ Started using firebase for the current React project.
 **Today's Progress**: CS50 Week8. Finished all assignments.   
  
 #100DaysOfCode
+
+## Day 107: 6/22/2020
+
+**Today's Progress**: Completed the CS50.    
+ 
+#100DaysOfCode
