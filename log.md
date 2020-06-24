@@ -687,3 +687,15 @@ Started using firebase for the current React project.
 **Today's Progress**: Completed the CS50.    
  
 #100DaysOfCode
+
+## Day 108: 6/23/2020
+
+**Today's Progress**: Working on a side project.
+ 
+#100DaysOfCode
+
+## Day 109: 6/24/2020
+
+**Today's Progress**: Started building a game by Love
+ 
+#100DaysOfCode
