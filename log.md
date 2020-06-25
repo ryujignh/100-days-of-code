@@ -699,3 +699,9 @@ Started using firebase for the current React project.
 **Today's Progress**: Started building a game by Love
  
 #100DaysOfCode
+
+## Day 110: 6/25/2020
+
+**Today's Progress**: Continue working on love.
+ 
+#100DaysOfCode
