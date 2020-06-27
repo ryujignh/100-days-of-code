@@ -711,3 +711,9 @@ Started using firebase for the current React project.
 **Today's Progress**: Working on a side project.
  
 #100DaysOfCode
+
+## Day 112: 6/27/2020
+
+**Today's Progress**: Continue working on love.
+ 
+#100DaysOfCode
