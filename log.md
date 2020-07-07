@@ -771,3 +771,9 @@ Started using firebase for the current React project.
 **Today's Progress**: CS50. Working on mario.
  
 #100DaysOfCode
+
+## Day 122: 7/7/2020
+
+**Today's Progress**: Working on a side project. Stupid.
+ 
+#100DaysOfCode
