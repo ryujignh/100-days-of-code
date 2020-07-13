@@ -801,3 +801,15 @@ Started using firebase for the current React project.
 **Today's Progress**: Working on creating mario.
  
 #100DaysOfCode
+
+## Day 127: 7/12/2020
+
+**Today's Progress**: Working on a side project.
+ 
+#100DaysOfCode
+
+## Day 128: 7/13/2020
+
+**Today's Progress**: Catching up on OpenId connect.
+ 
+#100DaysOfCode
