@@ -813,3 +813,15 @@ Started using firebase for the current React project.
 **Today's Progress**: Catching up on OpenId connect.
  
 #100DaysOfCode
+
+## Day 129: 7/14/2020
+
+**Today's Progress**: Working on a side project.
+ 
+#100DaysOfCode
+
+## Day 130: 7/15/2020
+
+**Today's Progress**: Catching up on OpenId connect.
+ 
+#100DaysOfCode
