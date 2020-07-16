@@ -825,3 +825,9 @@ Started using firebase for the current React project.
 **Today's Progress**: Catching up on OpenId connect.
  
 #100DaysOfCode
+
+## Day 131: 7/16/2020
+
+**Today's Progress**: Learning Oauth by implementing auth server and resource server. 
+ 
+#100DaysOfCode
