@@ -885,3 +885,21 @@ Started using firebase for the current React project.
 **Today's Progress**: Side project 
  
 #100DaysOfCode
+
+## Day 141: 7/26/2020
+
+**Today's Progress**: Side project 
+ 
+#100DaysOfCode
+
+## Day 142: 7/27/2020
+
+**Today's Progress**: Continue learning OIDC.
+ 
+#100DaysOfCode
+
+## Day 143: 7/28/2020
+
+**Today's Progress**: Side project. Hot fix!
+ 
+#100DaysOfCode
