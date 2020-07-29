@@ -903,3 +903,9 @@ Started using firebase for the current React project.
 **Today's Progress**: Side project. Hot fix!
  
 #100DaysOfCode
+
+## Day 144: 7/29/2020
+
+**Today's Progress**: Learning Oauth2. Building a resource server.
+ 
+#100DaysOfCode
