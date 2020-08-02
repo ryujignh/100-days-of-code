@@ -927,3 +927,9 @@ Started using firebase for the current React project.
 **Today's Progress**: Learning Oauth2. Building a authorization server.
  
 #100DaysOfCode
+
+## Day 148: 8/2/2020
+
+**Today's Progress**: Learning Oauth2. Building a authorization server. Issuing a refreshed token 
+ 
+#100DaysOfCode
