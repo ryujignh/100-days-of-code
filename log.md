@@ -957,3 +957,9 @@ Started using firebase for the current React project.
 **Today's Progress**: Started learning statistics  
  
 #100DaysOfCode
+
+## Day 153: 8/7/2020
+
+**Today's Progress**: Side project  
+ 
+#100DaysOfCode
