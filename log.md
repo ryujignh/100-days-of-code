@@ -963,3 +963,15 @@ Started using firebase for the current React project.
 **Today's Progress**: Side project  
  
 #100DaysOfCode
+
+## Day 154: 8/8/2020
+
+**Today's Progress**: Stats  
+ 
+#100DaysOfCode
+
+## Day 155: 8/9/2020
+
+**Today's Progress**: Stats  
+ 
+#100DaysOfCode
