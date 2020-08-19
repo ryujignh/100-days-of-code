@@ -1023,3 +1023,15 @@ Started using firebase for the current React project.
 **Today's Progress**: Learning web server and app server  
  
 #100DaysOfCode
+
+## Day 164: 8/18/2020
+
+**Today's Progress**: Learning web server and app server  
+ 
+#100DaysOfCode
+
+## Day 165: 8/19/2020
+
+**Today's Progress**: Learning capistrano  
+ 
+#100DaysOfCode
