@@ -1035,3 +1035,28 @@ Started using firebase for the current React project.
 **Today's Progress**: Learning capistrano  
  
 #100DaysOfCode
+
+## Day 166: 8/20/2020
+
+**Today's Progress**: Learning OIDC  
+ 
+#100DaysOfCode
+
+## Day 167: 8/21/2020
+
+**Today's Progress**: Learning OIDC  
+ 
+#100DaysOfCode
+
+## Day 168: 8/22/2020
+
+**Today's Progress**: Learning OIDC  
+ 
+#100DaysOfCode
+
+## Day 169: 8/23/2020
+
+**Today's Progress**: Learning OIDC  
+ 
+#100DaysOfCode
+
