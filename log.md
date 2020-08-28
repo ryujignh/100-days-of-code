@@ -1084,3 +1084,9 @@ Started using firebase for the current React project.
  
 #100DaysOfCode
 
+## Day 174: 8/28/2020
+
+**Today's Progress**: Side project  
+ 
+#100DaysOfCode
+
