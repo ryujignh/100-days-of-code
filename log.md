@@ -1156,3 +1156,15 @@ Started using firebase for the current React project.
  
 #100DaysOfCode
 
+## Day 186: 9/9/2020
+
+**Today's Progress**: Taking break   
+ 
+#100DaysOfCode
+
+## Day 187: 9/10/2020
+
+**Today's Progress**: Completed a LINUX course on udemy.   
+ 
+#100DaysOfCode
+
