@@ -1168,3 +1168,21 @@ Started using firebase for the current React project.
  
 #100DaysOfCode
 
+## Day 188: 9/11/2020
+
+**Today's Progress**: Side project.   
+ 
+#100DaysOfCode
+
+## Day 189: 9/12/2020
+
+**Today's Progress**: Taking a lecture on AWS certified developer course.   
+ 
+#100DaysOfCode
+
+## Day 190: 9/13/2020
+
+**Today's Progress**: Taking a lecture on AWS certified developer course.   
+ 
+#100DaysOfCode
+
