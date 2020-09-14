@@ -1186,3 +1186,9 @@ Started using firebase for the current React project.
  
 #100DaysOfCode
 
+## Day 191: 9/14/2020
+
+**Today's Progress**: Taking a lecture on AWS certified developer course. Types of EC2 instances.   
+ 
+#100DaysOfCode
+
