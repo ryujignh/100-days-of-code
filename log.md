@@ -1672,3 +1672,15 @@ Started using firebase for the current React project.
  
 #100DaysOfCode
 
+## Day 272: 12/3/2020
+
+**Today's Progress**: Taking a lecture on AWS certified developer course.   
+ 
+#100DaysOfCode
+
+## Day 273: 12/4/2020
+
+**Today's Progress**: Taking a lecture on AWS certified developer course.   
+ 
+#100DaysOfCode
+
