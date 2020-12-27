@@ -1761,3 +1761,70 @@ Started using firebase for the current React project.
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
+
+## Day 287: 12/18/2020
+
+**Today's Progress**: Taking break   
+ 
+#100DaysOfCode
+
+## Day 288: 12/19/2020
+
+**Today's Progress**: Taking break   
+ 
+#100DaysOfCode
+
+## Day 289: 12/20/2020
+
+**Today's Progress**: Taking break   
+ 
+#100DaysOfCode
+
+## Day 290: 12/21/2020
+
+**Today's Progress**: Taking break   
+ 
+#100DaysOfCode
+
+## Day 291: 12/22/2020
+
+**Today's Progress**: Taking break   
+ 
+#100DaysOfCode
+
+## Day 292: 12/23/2020
+
+**Today's Progress**: Taking break   
+ 
+#100DaysOfCode
+
+## Day 293: 12/24/2020
+
+**Today's Progress**: Taking break   
+ 
+#100DaysOfCode
+
+## Day 294: 12/25/2020
+
+**Today's Progress**: Taking break   
+ 
+#100DaysOfCode
+
+## Day 296: 12/26/2020
+
+**Today's Progress**: Taking break   
+ 
+#100DaysOfCode
+
+## Day 297: 12/27/2020
+
+**Today's Progress**: Taking break   
+ 
+#100DaysOfCode
+
+## Day 298: 12/28/2020
+
+**Today's Progress**: AWS Certified developer course. Practice exam.   
+ 
+#100DaysOfCode
+
