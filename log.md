@@ -1492,355 +1492,355 @@ Started using firebase for the current React project.
  
 #100DaysOfCode
 
-## Day 242: 11/3/2020
+## Day 242: 11/4/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 243: 11/4/2020
+## Day 243: 11/5/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 244: 11/5/2020
+## Day 244: 11/6/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 245: 11/6/2020
+## Day 245: 11/7/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 246: 11/7/2020
+## Day 246: 11/8/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 247: 11/8/2020
+## Day 247: 11/9/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 248: 11/9/2020
+## Day 248: 11/10/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 249: 11/10/2020
+## Day 249: 11/11/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 250: 11/11/2020
+## Day 250: 11/12/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 251: 11/12/2020
+## Day 251: 11/13/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 252: 11/13/2020
+## Day 252: 11/14/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 253: 11/14/2020
+## Day 253: 11/15/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 254: 11/15/2020
+## Day 254: 11/16/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 255: 11/16/2020
+## Day 255: 11/17/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 256: 11/17/2020
+## Day 256: 11/18/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 257: 11/18/2020
+## Day 257: 11/19/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 258: 11/19/2020
+## Day 258: 11/20/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 259: 11/20/2020
+## Day 259: 11/21/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 260: 11/21/2020
+## Day 260: 11/22/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 261: 11/22/2020
+## Day 261: 11/23/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 262: 11/23/2020
+## Day 262: 11/24/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 263: 11/24/2020
+## Day 263: 11/25/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 264: 11/25/2020
+## Day 264: 11/26/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 265: 11/26/2020
+## Day 265: 11/27/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 266: 11/27/2020
+## Day 266: 11/28/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 267: 11/28/2020
+## Day 267: 11/29/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 268: 11/29/2020
+## Day 268: 11/30/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 269: 11/30/2020
+## Day 269: 12/1/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 270: 12/1/2020
+## Day 270: 12/2/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 271: 12/2/2020
+## Day 271: 12/3/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 272: 12/3/2020
+## Day 272: 12/4/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 273: 12/4/2020
+## Day 273: 12/5/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 274: 12/5/2020
+## Day 274: 12/6/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 275: 12/6/2020
+## Day 275: 12/7/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 276: 12/7/2020
+## Day 276: 12/8/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 277: 12/8/2020
+## Day 277: 12/9/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 278: 12/9/2020
+## Day 278: 12/10/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 279: 12/10/2020
+## Day 279: 12/11/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 280: 12/11/2020
+## Day 280: 12/12/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 281: 12/12/2020
+## Day 281: 12/13/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 282: 12/13/2020
+## Day 282: 12/14/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 283: 12/14/2020
+## Day 283: 12/15/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 284: 12/15/2020
+## Day 284: 12/16/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 285: 12/16/2020
+## Day 285: 12/17/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 286: 12/17/2020
+## Day 286: 12/18/2020
 
 **Today's Progress**: Taking a lecture on AWS certified developer course.   
  
 #100DaysOfCode
 
-## Day 287: 12/18/2020
+## Day 287: 12/19/2020
 
 **Today's Progress**: Taking break   
  
 #100DaysOfCode
 
-## Day 288: 12/19/2020
+## Day 288: 12/20/2020
 
 **Today's Progress**: Taking break   
  
 #100DaysOfCode
 
-## Day 289: 12/20/2020
+## Day 289: 12/21/2020
 
 **Today's Progress**: Taking break   
  
 #100DaysOfCode
 
-## Day 290: 12/21/2020
+## Day 290: 12/22/2020
 
 **Today's Progress**: Taking break   
  
 #100DaysOfCode
 
-## Day 291: 12/22/2020
+## Day 291: 12/23/2020
 
 **Today's Progress**: Taking break   
  
 #100DaysOfCode
 
-## Day 292: 12/23/2020
+## Day 292: 12/24/2020
 
 **Today's Progress**: Taking break   
  
 #100DaysOfCode
 
-## Day 293: 12/24/2020
+## Day 293: 12/25/2020
 
 **Today's Progress**: Taking break   
  
 #100DaysOfCode
 
-## Day 294: 12/25/2020
+## Day 294: 12/26/2020
 
 **Today's Progress**: Taking break   
  
 #100DaysOfCode
 
-## Day 296: 12/26/2020
+## Day 295: 12/27/2020
 
 **Today's Progress**: Taking break   
  
 #100DaysOfCode
 
-## Day 297: 12/27/2020
+## Day 296: 12/28/2020
 
 **Today's Progress**: Taking break   
  
 #100DaysOfCode
 
-## Day 298: 12/28/2020
+## Day 297: 12/29/2020
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 299: 12/29/2020
+## Day 298: 12/30/2020
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 300: 12/30/2020
+## Day 299: 12/31/2020
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 301: 12/31/2020
+## Day 300: 1/1/2020
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
