@@ -1994,4 +1994,6 @@ Started using firebase for the current React project.
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
+## Day 326: 1/27/2020
 
+**Today's Progress**: AWS Certified developer course. Practice exam.   
