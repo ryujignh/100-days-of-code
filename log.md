@@ -1840,427 +1840,427 @@ Started using firebase for the current React project.
  
 #100DaysOfCode
 
-## Day 300: 1/1/2020
+## Day 300: 1/1/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 301: 1/2/2020
+## Day 301: 1/2/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 302: 1/3/2020
+## Day 302: 1/3/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 303: 1/4/2020
+## Day 303: 1/4/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 304: 1/5/2020
+## Day 304: 1/5/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 305: 1/6/2020
+## Day 305: 1/6/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 306: 1/7/2020
+## Day 306: 1/7/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 307: 1/8/2020
+## Day 307: 1/8/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 308: 1/9/2020
+## Day 308: 1/9/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 309: 1/10/2020
+## Day 309: 1/10/2021
 
 **Today's Progress**: Taking a break   
  
 #100DaysOfCode
 
-## Day 310: 1/11/2020
+## Day 310: 1/11/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 311: 1/12/2020
+## Day 311: 1/12/2021
 
 **Today's Progress**: Taking a break   
  
 #100DaysOfCode
 
-## Day 312: 1/13/2020
+## Day 312: 1/13/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 313: 1/14/2020
+## Day 313: 1/14/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 314: 1/15/2020
+## Day 314: 1/15/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 315: 1/16/2020
+## Day 315: 1/16/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 316: 1/17/2020
+## Day 316: 1/17/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 317: 1/18/2020
+## Day 317: 1/18/2021
 
 **Today's Progress**: Break   
  
 #100DaysOfCode
 
-## Day 318: 1/19/2020
+## Day 318: 1/19/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 319: 1/20/2020
+## Day 319: 1/20/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 320: 1/21/2020
+## Day 320: 1/21/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 321: 1/22/2020
+## Day 321: 1/22/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 322: 1/23/2020
+## Day 322: 1/23/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 323: 1/24/2020
+## Day 323: 1/24/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 324: 1/25/2020
+## Day 324: 1/25/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
  
 #100DaysOfCode
 
-## Day 325: 1/26/2020
+## Day 325: 1/26/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
  
-## Day 326: 1/27/2020
+## Day 326: 1/27/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 327: 1/28/2020
+## Day 327: 1/28/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 328: 1/29/2020
+## Day 328: 1/29/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 329: 1/30/2020
+## Day 329: 1/30/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
 
 #100DaysOfCode
 
-## Day 330: 1/31/2020
+## Day 330: 1/31/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
 
 #100DaysOfCode
 
-## Day 331: 2/1/2020
+## Day 331: 2/1/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
 
 #100DaysOfCode
 
-## Day 332: 2/2/2020
+## Day 332: 2/2/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
 
 #100DaysOfCode
 
-## Day 333: 2/3/2020
+## Day 333: 2/3/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
 
 #100DaysOfCode
 
-## Day 334: 2/4/2020
+## Day 334: 2/4/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
 
 #100DaysOfCode
 
-## Day 335: 2/5/2020
+## Day 335: 2/5/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
 
 #100DaysOfCode
 
-## Day 336: 2/6/2020
+## Day 336: 2/6/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
 
 #100DaysOfCode
 
-## Day 337: 2/7/2020
+## Day 337: 2/7/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
 
 #100DaysOfCode
 
-## Day 338: 2/8/2020
+## Day 338: 2/8/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
 
 #100DaysOfCode
 
-## Day 339: 2/9/2020
+## Day 339: 2/9/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
 
 #100DaysOfCode
 
-## Day 340: 2/10/2020
+## Day 340: 2/10/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
 
 #100DaysOfCode
 
-## Day 341: 2/11/2020
+## Day 341: 2/11/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
 
 #100DaysOfCode
 
-## Day 342: 2/12/2020
+## Day 342: 2/12/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
 
 #100DaysOfCode
 
-## Day 343: 2/13/2020
+## Day 343: 2/13/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
 
 #100DaysOfCode
 
-## Day 344: 2/14/2020
+## Day 344: 2/14/2021
 
 **Today's Progress**: Taking break   
 
 #100DaysOfCode
 
-## Day 344: 2/15/2020
+## Day 344: 2/15/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.   
 
 #100DaysOfCode
 
-## Day 345: 2/15/2020
+## Day 345: 2/15/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 346: 2/16/2020
+## Day 346: 2/16/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 347: 2/17/2020
+## Day 347: 2/17/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 348: 2/18/2020
+## Day 348: 2/18/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 349: 2/19/2020
+## Day 349: 2/19/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 350: 2/20/2020
+## Day 350: 2/20/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 351: 2/21/2020
+## Day 351: 2/21/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 352: 2/22/2020
+## Day 352: 2/22/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 353: 2/23/2020
+## Day 353: 2/23/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 354: 2/24/2020
+## Day 354: 2/24/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 355: 2/25/2020
+## Day 355: 2/25/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 356: 2/26/2020
+## Day 356: 2/26/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 357: 2/27/2020
+## Day 357: 2/27/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 358: 2/28/2020
+## Day 358: 2/28/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 359: 3/1/2020
+## Day 359: 3/1/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 360: 3/2/2020
+## Day 360: 3/2/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 361: 3/3/2020
+## Day 361: 3/3/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 362: 3/4/2020
+## Day 362: 3/4/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 363: 3/5/2020
+## Day 363: 3/5/2021
 
 **Today's Progress**: AWS Certified developer course. Practice exam.
 
 #100DaysOfCode
 
-## Day 364: 3/6/2020
+## Day 364: 3/6/2021
 
 **Today's Progress**: AWS Certified developer course PASSED.
 
 #100DaysOfCode
 
-## Day 365: 3/7/2020
+## Day 365: 3/7/2021
 
 **Today's Progress**: App mock design.
 
 #100DaysOfCode
 
-## Day 366: 3/8/2020
+## Day 366: 3/8/2021
 
 **Today's Progress**: Working on a flutter app.
 
 #100DaysOfCode
 
-## Day 367: 3/9/2020
+## Day 367: 3/9/2021
 
 **Today's Progress**: Working on a flutter app.
 
 #100DaysOfCode
 
-## Day 368: 3/10/2020
+## Day 368: 3/10/2021
 
 **Today's Progress**: Working on a flutter app.
 
 #100DaysOfCode
 
-## Day 369: 3/11/2020
+## Day 369: 3/11/2021
 
 **Today's Progress**: Working on a flutter app.
 
