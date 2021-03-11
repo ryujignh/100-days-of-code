@@ -2260,3 +2260,9 @@ Started using firebase for the current React project.
 
 #100DaysOfCode
 
+## Day 369: 3/11/2020
+
+**Today's Progress**: Working on a flutter app.
+
+#100DaysOfCode
+
