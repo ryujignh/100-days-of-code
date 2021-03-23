@@ -2296,3 +2296,45 @@ Started using firebase for the current React project.
 
 #100DaysOfCode
 
+## Day 375: 3/17/2021
+
+**Today's Progress**: Working on a flutter app.
+
+#100DaysOfCode
+
+## Day 376: 3/18/2021
+
+**Today's Progress**: Working on a flutter app.
+
+#100DaysOfCode
+
+## Day 377: 3/19/2021
+
+**Today's Progress**: Working on a flutter app.
+
+#100DaysOfCode
+
+## Day 378: 3/20/2021
+
+**Today's Progress**: Working on a flutter app.
+
+#100DaysOfCode
+
+## Day 379: 3/21/2021
+
+**Today's Progress**: Working on a flutter app.
+
+#100DaysOfCode
+
+## Day 380: 3/22/2021
+
+**Today's Progress**: Working on a flutter app.
+
+#100DaysOfCode
+
+## Day 381: 3/23/2021
+
+**Today's Progress**: Working on a flutter app.
+
+#100DaysOfCode
+
