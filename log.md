@@ -2790,7 +2790,7 @@ Started using firebase for the current React project.
 
 ## Day 487: 7/7/2021
 
-**Today's Progress**: Recurssion 
+**Today's Progress**: Recursion 
 
 #100DaysOfCode
 
